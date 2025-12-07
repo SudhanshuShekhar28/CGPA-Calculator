@@ -116,4 +116,4 @@ if st.button("Calculate"):
     )
 
 
-st.markdown("Made with ❤️ by [Siddhesh Agarwal](https://siddhesh.cc/)")
+st.markdown("Made with ❤️ by [Sudhanshu Shekhar](https://sudhanshu-shekhar-portfolio-website-zyx0.onrender.com/)"
